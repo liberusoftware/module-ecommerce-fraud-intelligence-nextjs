@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-fraud-intelligence-nextjs",
+  "capabilityKey": "planned:ecommerce:fraud-intelligence",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-fraud-intelligence-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/fraud-intelligence.md",
+  "presentationPlan": "projects/ecommerce/nextjs/fraud-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
